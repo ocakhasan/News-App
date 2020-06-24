@@ -5,16 +5,16 @@ This app gatheres News İnformation from a Web Service. It is a demonstration of
 Screenshots:
 
 ## Main Screen
-![picture](screenshots/Screenshot_20200624-135738.jpg)
+![picture](screenshots/main.jpg)
 
 ## Detail of a New
-![picture](screenshots/Screenshot_20200624-135742.jpg)
+![picture](screenshots/detail.jpg)
 
 ## Comment of a New
-![picture](screenshots/Screenshot_20200624-135746.jpg)
+![picture](screenshots/comments.jpg)
 
 ## Add Comment
-![picture](screenshots/Screenshot_20200624-135749.jpg)
+![picture](screenshots/add_comment.jpg)
 
 ## Category Selection
-![picture](screenshots/Screenshot_20200624-135756.jpg)
+![picture](screenshots/category.jpg)
